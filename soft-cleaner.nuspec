@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>SCSetup</id>
+    <version>3.8.21.49</version>
+    <packageSourceUrl>https://github.com/satheeshsoft/Soft-Cleaner-CY</packageSourceUrl>
+    <owners>satheeshsoft</owners>
+    <title>Soft Cleaner</title>
+    <authors>satheeshsoft</authors>
+    <projectUrl>https://www.softcleaner.in/live-analysis</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-CY/main/soft-cleaner-128.png</iconUrl>
+    <copyright>satheeshsoft</copyright>
+    <licenseUrl>https://www.softcleaner.in/privacy-policy</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>http://www.softcleaner.in/live-analysis</docsUrl>
+    <mailingListUrl>https://www.softcleaner.in/contact</mailingListUrl>
+    <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
+    <tags>speedup_windows_computers admin desktop freeware web 2021 malware-remover system cleaner</tags>
+    <summary>Soft Cleaner</summary>
+    <description><![CDATA[
+	Soft Cleaner is (License: Free) very highly powerful computer optimization software. Speed up your Windows computer performance same like the smart phone, ensure cyber security, some more free disk space and stability in system resources utilization without adding extra hardware components and without tweaking your computer.
+	## Advanced Features	
+	What is the simple step to speed up the computer?
+'Virus Cleaner - Game Booster' once you logon PC and make sure that there is nothing path written in 'Soft Cleaner - Virus Cleaner.txt' on desktop unless you use special file cleaning. Know more above *** and 'Automatic Memory Optimizer'.	
+	![Screenshot](https://www.softcleaner.in/satheeshsoft/webImages/automatic-memory-optimizer.png)		
+	*** Before optimization: Exit every other opened programs first, including browsers, word, video files, notepad, photo editors, s/w development editors, movie maker or screen recording programs. If you are a first time user or your PC is that much very slow or time taking to load ‘System Optimization’.Wait until load ‘System Optimization’ then open CPanel, Directly use ‘Virus Cleaner - Game Booster’ and make sure that no file names saved in appropriate text file. Running 'Automatic Memory Optimizer'to automatically stabilize your computer performance in peak when you're working on other programs.So that you don't need to worry and doubting about slow computer performance again.
+	*** How to work? Mandatory: Right click Soft Cleaner select 'Run as administrator'. Try not to do anything on your PC while optimization.
+	Automatic Memory Optimizer - This will enable after you completed "Virus Cleaner - Game Booster". It automatically speeds up your computer system when slow. Included another automatic advanced EXTRA BOOST. Specification: Either you can minimize or stay “Soft Cleaner” and starts running any other programs at the same time even faster.
+	]]></description>
+    <releaseNotes>Technical update</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
